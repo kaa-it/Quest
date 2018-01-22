@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/round_stone_15.JPG</file>
+        <file>images/wp-budapest-january-21.jpg</file>
+    </qresource>
+</RCC>
